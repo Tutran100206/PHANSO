@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\kithuatlaptrinh\\CHUONG 1\\Bai6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C557A6CB-6BC7-4A7F-B73B-2A0E6A9C2589}|Bai6\\Bai6.vcxproj|E:\\kithuatlaptrinh\\CHUONG 1\\Bai6\\Bai6\\Bai6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C557A6CB-6BC7-4A7F-B73B-2A0E6A9C2589}|Bai6\\Bai6.vcxproj|solutionrelative:Bai6\\Bai6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai6.cpp",
+              "DocumentMoniker": "E:\\kithuatlaptrinh\\CHUONG 1\\Bai6\\Bai6\\Bai6.cpp",
+              "RelativeDocumentMoniker": "Bai6\\Bai6.cpp",
+              "ToolTip": "E:\\kithuatlaptrinh\\CHUONG 1\\Bai6\\Bai6\\Bai6.cpp",
+              "RelativeToolTip": "Bai6\\Bai6.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAIsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-06T01:17:37.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

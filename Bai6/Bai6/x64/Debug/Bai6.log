@@ -1,0 +1,4 @@
+﻿  Bai6.cpp
+E:\kithuatlaptrinh\CHUONG 1\Bai6\Bai6\Bai6.cpp(69,9): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+E:\kithuatlaptrinh\CHUONG 1\Bai6\Bai6\Bai6.cpp(114,26): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  Bai6.vcxproj -> E:\kithuatlaptrinh\CHUONG 1\Bai6\x64\Debug\Bai6.exe
