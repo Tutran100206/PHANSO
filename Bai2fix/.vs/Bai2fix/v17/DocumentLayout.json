@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\kithuatlaptrinh\\CHUONG 1\\Bai2fix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1861F338-FFA6-47A4-AF22-8C28775A55E3}|Bai2fix\\Bai2fix.vcxproj|E:\\kithuatlaptrinh\\CHUONG 1\\Bai2fix\\Bai2fix\\Bai2fix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1861F338-FFA6-47A4-AF22-8C28775A55E3}|Bai2fix\\Bai2fix.vcxproj|solutionrelative:Bai2fix\\Bai2fix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai2fix.cpp",
+              "DocumentMoniker": "E:\\kithuatlaptrinh\\CHUONG 1\\Bai2fix\\Bai2fix\\Bai2fix.cpp",
+              "RelativeDocumentMoniker": "Bai2fix\\Bai2fix.cpp",
+              "ToolTip": "E:\\kithuatlaptrinh\\CHUONG 1\\Bai2fix\\Bai2fix\\Bai2fix.cpp",
+              "RelativeToolTip": "Bai2fix\\Bai2fix.cpp",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-06T07:05:38.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
